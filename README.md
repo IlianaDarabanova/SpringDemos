@@ -1,2 +1,0 @@
-# SpringDemos
-spiring demo projects 
